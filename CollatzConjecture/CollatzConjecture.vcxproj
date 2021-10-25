@@ -142,12 +142,12 @@
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Node.cpp" />
-    <ClCompile Include="print.cpp" />
+    <ClCompile Include="Print.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="Node.h" />
-    <ClInclude Include="print.h" />
+    <ClInclude Include="Print.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
